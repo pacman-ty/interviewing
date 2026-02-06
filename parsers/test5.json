@@ -1,0 +1,14 @@
+{
+  "id": "001",
+  "settings": {
+    "theme": "dark",
+    "preferences": {
+      "notifications": {
+        "email": "enabled",
+        "sms": "disabled"
+      }
+    }
+  },
+  "status": "active"
+}
+
