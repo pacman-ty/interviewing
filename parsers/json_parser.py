@@ -12,7 +12,6 @@ def json_parser(filename: str):
 
     return helper(lines, {})
 
-# assumption that whitespaces are consistent and a tab is 4 spaces 
 def helper(lines: List, json: Dict):
     line = lines.pop(0)
 
